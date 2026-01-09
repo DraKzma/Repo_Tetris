@@ -1,0 +1,8 @@
+Pour créer l'éxécutable :
+
+- lancer l'instruction make dans le terminal à partir de ce dossier comme dossier courant
+- puis lancer ./tetris dans le terminal
+
+et voilà !
+
+COURT Anthony GIRAUD Nicolas
