@@ -5,7 +5,7 @@
 #include<unistd.h>
 
 
-/* fonction qui renvoie un plateau de type grille(voir jeu.h) remplie de 0 de taille n par m */
+/* fonction qui renvoie un plateau de type grille( voir jeu.h ) remplie de 0 de taille n par m */
 grille cree_plateau(int n, int m){
     /* on crée une grille vierge */
     grille g;
